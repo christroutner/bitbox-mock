@@ -1,0 +1,29 @@
+{
+  "name": "bitbox-mock",
+  "version": "1.0.0",
+  "description": "A mocking library for BITBOX, used in unit tests for apps that depend on BITBOX.",
+  "main": "bitbox-mock.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christroutner/bitbox-mock.git"
+  },
+  "keywords": [
+    "bitbox",
+    "javascript",
+    "bitcoin",
+    "bitcoin",
+    "cash",
+    "testing",
+    "unit",
+    "tests"
+  ],
+  "author": "Chris Troutner <chris.troutner@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christroutner/bitbox-mock/issues"
+  },
+  "homepage": "https://github.com/christroutner/bitbox-mock#readme"
+}
