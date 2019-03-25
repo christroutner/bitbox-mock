@@ -33,6 +33,7 @@ values like this:
 const sinon = require('sinon')
 const BITBOX = require('bitbox-mock')
 
+// This is an example of your own mocked data.
 const myMockData = {
   balance: 0.324,
   cashAddress: 'bchtest:qzsfqeqtdk6plsvglccadkqtf0trf2nyz58090e6tt'
