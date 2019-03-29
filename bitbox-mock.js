@@ -345,7 +345,7 @@ const mockTransactions = {
   ]
 }
 
-
+// Mock Address.Transaction.details()
 const mockTransactionDetails = {
   txid: 'a77762bb47c130e755cc053db51333bbd64596eefd18baffc08a447749863fa9',
   version: 2,
