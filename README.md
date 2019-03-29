@@ -1,4 +1,7 @@
 # bitbox-mock
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/christroutner/bitbox-mock.svg)](https://greenkeeper.io/)
+
 This is a mocking library for
 [BITBOX JavaScript SDK](https://github.com/Bitcoin-com/bitbox-sdk). If you write
 an app that depends on the BITBOX library, you can use this mocking library to
