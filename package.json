@@ -28,6 +28,6 @@
   "homepage": "https://github.com/christroutner/bitbox-mock#readme",
   "dependencies": {
     "semantic-release": "^15.13.3",
-    "sinon": "^7.3.0"
+    "sinon": "^8.0.2"
   }
 }
