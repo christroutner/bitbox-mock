@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/christroutner/bitbox-mock#readme",
   "dependencies": {
-    "semantic-release": "^15.13.3",
+    "semantic-release": "^17.0.6",
     "sinon": "^7.3.0"
   }
 }
